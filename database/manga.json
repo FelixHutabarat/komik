@@ -1,0 +1,43 @@
+// manga.json V1.0 Rev 0
+{
+  "manga_id": "dragonslayers-peerless-regression-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Peerless Dragon Slayer, 멸룡왕의 절세 회귀",
+  "status": "Ongoing",
+  "author": "Eonjeong",
+  "artist": "Studio Locus",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen",
+    "Magic"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Sebagai Pembunuh Naga terakhir yang tersisa di dunia yang hancur, ia bertarung hingga napas terakhirnya melawan Raja Naga. Saat kekalahan tampak tak terhindarkan, sebuah keajaiban terjadi dan mengembalikannya ke masa lalu sebelum invasi naga dimulai. Dengan ingatan dan pengalaman tempur dari kehidupan sebelumnya, ia bersumpah untuk mengubah nasib dunia dan membasmi setiap naga yang ada.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/covers/dragonslayer-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Kembalinya Sang Pembunuh Naga",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch01/001.webp",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch01/002.webp",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch01/003.webp",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch01/004.webp"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Akademi Pahlawan",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch02/001.webp",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch02/002.webp",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch02/003.webp",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/manga/dragonslayer/ch02/004.webp"
+      ]
+    }
+  ]
+}
